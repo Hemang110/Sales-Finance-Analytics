@@ -1,4 +1,4 @@
-# AtliQ HardWare Excel Analytics Report
+## AtliQ HardWare Excel Analytics Report
 ## Sales Report :
 
 
