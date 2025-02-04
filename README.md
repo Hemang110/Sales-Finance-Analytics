@@ -18,9 +18,9 @@
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/gettingstarted2020/Sales-anaystics-report/blob/main/FINANCIAL%20REPORT.pdf)_ 
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/Hemang110/Sales-Finance-Analytics/blob/main/Financial-Report.pdf)_ 
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/gettingstarted2020/Sales-anaystics-report/blob/main/P%26L%20by%20market.pdf)_
+   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/Hemang110/Sales-Finance-Analytics/blob/main/P%26L%20for%20markets.pdf)_
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
