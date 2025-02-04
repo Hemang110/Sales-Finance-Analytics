@@ -4,7 +4,7 @@
 
 - **Project objective:** 
 
-    **1.** Create a _[customer performance report](https://github.com/gettingstarted2020/Sales-anaystics-report/blob/main/customer%20net%20sales%20report.pdf)_ 
+    **1.** Create a _[customer performance report](https://github.com/Hemang110/Sales-Finance-Analytics/blob/main/Customer%20Net%20Sales.pdf)_ 
 
     **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/gettingstarted2020/Sales-anaystics-report/blob/main/market%20performance%20vs%20target%20report.pdf)
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
